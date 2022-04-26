@@ -1,0 +1,10 @@
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\bin\Debug\AutomobileClient.exe.config
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\bin\Debug\AutomobileClient.exe
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\bin\Debug\AutomobileClient.pdb
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\bin\Debug\AutomobileManufacturer.dll
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\bin\Debug\AutomobileManufacturer.pdb
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\obj\Debug\AutomobileClient.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\obj\Debug\AutomobileClient.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\obj\Debug\AutomobileClient.csproj.CopyComplete
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\obj\Debug\AutomobileClient.exe
+C:\Users\2091199\source\repos\AutomobileClient\AutomobileClient\obj\Debug\AutomobileClient.pdb
