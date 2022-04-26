@@ -1,0 +1,6 @@
+C:\Users\2091199\source\repos\AutomobileManufacturer\AutomobileManufacturer\bin\Debug\AutomobileManufacturer.dll
+C:\Users\2091199\source\repos\AutomobileManufacturer\AutomobileManufacturer\bin\Debug\AutomobileManufacturer.pdb
+C:\Users\2091199\source\repos\AutomobileManufacturer\AutomobileManufacturer\obj\Debug\AutomobileManufacturer.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\AutomobileManufacturer\AutomobileManufacturer\obj\Debug\AutomobileManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\AutomobileManufacturer\AutomobileManufacturer\obj\Debug\AutomobileManufacturer.dll
+C:\Users\2091199\source\repos\AutomobileManufacturer\AutomobileManufacturer\obj\Debug\AutomobileManufacturer.pdb
